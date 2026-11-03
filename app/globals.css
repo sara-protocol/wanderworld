@@ -1,0 +1,6 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { background:#f6f3ec; color:#1a2e22; font-family: ui-sans-system, -apple-system, sans-serif; }
+.card { @apply bg-white rounded-[20px] shadow-sm border border-black/5; }
