@@ -1,3 +1,3 @@
 import "./globals.css";
-export const metadata = { title: "游览世界 WanderWorld v2", description: "去你想去的地方，观你想观的世界 - 广州出发真实地图版" };
+export const metadata = { title: "游览世界 WanderWorld v3 - 搜索自动补全", description: "去你想去的地方，观你想观的世界 - 广州出发，搜索自动补全版" };
 export default function RootLayout({ children }: { children: React.ReactNode }) { return <html lang="zh"><body>{children}</body></html>; }
